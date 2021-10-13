@@ -1,6 +1,7 @@
 ##### <div align=""> About Me: </div>
 - <div align="">Currently studying System Analysis and Development at <a href="https://www.cotemig.com.br/">Cotemig</a>.</div>
 - <div align="">Information Technology Technician by <a href="https://www.cotemig.com.br/">Cotemig</a>.</div>
+- <div align="">Studying Swift.</div>
 
 ##### <div align=""> Main Skills: </div>
 
@@ -29,6 +30,9 @@
   <a href="https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html" target="blank">
     <img src="https://img.shields.io/badge/-Java-C74634?&logo=Java&logoColor=white&logoWidth=20"/>
   </a>  
+   <a href="https://swift.org" target="blank">
+    <img src="https://img.shields.io/badge/-Swift-f05138?&logo=Swift&logoColor=white&logoWidth=20"/>
+  </a> 
 </div>
 
 ##### <div align=""> You can find me in: </div>
