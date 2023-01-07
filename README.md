@@ -1,7 +1,7 @@
 ##### <div align=""> About Me: </div>
 - <div align="">Currently studying System Analysis and Development at <a href="https://www.fiap.com.br">Fiap</a>.</div>
 - <div align="">Information Technology Technician by <a href="https://www.cotemig.com.br/">Cotemig</a>.</div>
-- <div align="">Studying Swift.</div>
+- <div align="">Studying Java.</div>
 
 ##### <div align=""> Main Skills: </div>
 
