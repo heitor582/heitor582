@@ -1,6 +1,6 @@
 ##### <div align=""> About Me: </div>
-- <div align="">Currently studying System Analysis and Development at <a href="https://www.fiap.com.br">Fiap</a>.</div>
-- <div align="">Studying Java and Kotlin.</div>
+- <div align="">Currently studying Distributed Software Architecture at Puc Minas.</div>
+- <div align="">Studying Java, Kotlin, Go.</div>
 
 ##### <div align=""> Main Skills: </div>
 
