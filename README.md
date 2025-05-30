@@ -1,5 +1,5 @@
 ##### <div align=""> About Me: </div>
-- <div align="">Currently studying Distributed Software Architecture at Puc Minas.</div>
+- <div align="">Currently studying Computer Science at Puc Minas.</div>
 - <div align="">Studying Java, Kotlin, Go.</div>
 
 ##### <div align=""> Main Skills: </div>
